@@ -1,0 +1,55 @@
+/**
+* @name No Lag User
+* @version Auto Update
+* @description No Lag Discord By Reducing Discord lag
+* @author xXUsuadXx
+* @Source https://github.com/xxusuadxx/No-Lag-User-Discord-Theme
+* @website https://github.com/xxusuadxx/No-Lag-User-Discord-Theme/
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/base.css");
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://fonts.googleapis.com/css2?family=Anton');
+:root {
+--background-image: url('https://i.imgur.com/wo1MFFq.jpg');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/DIUacvN.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: contain;
+--popout-modal-position: center;
+--home-button-mage: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: right;
+--serverlist-brightness: 0;
+--left-brightness: 0;
+--middle-brightness: 0;
+--right-brightness: 0;
+--popout-modal-brightness: 0;
+--gradient-primary: 183,43,181;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 27px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: none;
+--font: 'Anton';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
