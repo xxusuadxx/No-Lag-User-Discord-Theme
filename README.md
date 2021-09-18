@@ -9,3 +9,5 @@ No Lag User Discord Theme is a theme For BetterDiscord from Discord
 
 
 requirements [BetterDiscord (from theme)](https://betterdiscord.app/).
+
+THX
